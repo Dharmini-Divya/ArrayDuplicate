@@ -1,2 +1,0 @@
-# ArrayDuplicate
-Demo Repo
